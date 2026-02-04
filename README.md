@@ -10,11 +10,4 @@ I am a passionate **Full-Stack Developer** and **AI Enthusiast** based in India.
 - 📫 **How to reach me:** [https://www.linkedin.com/in/aayushshah904/]
 
 ---
-
-
-### 📊 GitHub Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushShah-904&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushShah-904&layout=compact&theme=dark)
-
----
 "Building tomorrow's tech, one commit at a time." 🚀
